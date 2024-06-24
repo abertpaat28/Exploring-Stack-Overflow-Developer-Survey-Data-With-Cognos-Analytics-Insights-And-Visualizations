@@ -1,4 +1,4 @@
-# Exploring-Stack-Overflow-Developer-Survey-Data-With-Cognos-Analytics-Insights-And-Visualizations
+# Exploring Stack Overflow Developer Survey Data With Cognos Analytics: Insights And Visualizations
 
 ![EXPLOR~1](https://github.com/abertpaat28/Exploring-Stack-Overflow-Developer-Survey-Data-With-Cognos-Analytics-Insights-And-Visualizations/assets/172190865/cb4d0921-cdfa-4651-8b3f-e4d195c9b9c7)
 ![EXPLOR~4](https://github.com/abertpaat28/Exploring-Stack-Overflow-Developer-Survey-Data-With-Cognos-Analytics-Insights-And-Visualizations/assets/172190865/0d7bb307-0702-47aa-83c0-0efa4c39a67c)
