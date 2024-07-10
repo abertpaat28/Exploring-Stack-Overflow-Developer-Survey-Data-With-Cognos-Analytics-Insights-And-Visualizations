@@ -1,7 +1,7 @@
 # 💻 Exploring Stack Overflow Developer Survey Data With Cognos Analytics: Insights And Visualizations
 ---
 👀
-[Power BI Dashboard](https://github.com/abertpaat28/Exploring-Stack-Overflow-Developer-Survey-Data-With-Cognos-Analytics-Insights-And-Visualizations/blob/main/Dashboard.pdf) -
+[Cognos Analytics Dashboard](https://github.com/abertpaat28/Exploring-Stack-Overflow-Developer-Survey-Data-With-Cognos-Analytics-Insights-And-Visualizations/blob/main/Dashboard.pdf) -
 [Dataset #1](https://github.com/abertpaat28/Exploring-Stack-Overflow-Developer-Survey-Data-With-Cognos-Analytics-Insights-And-Visualizations/blob/main/m5_survey_data_technologies_normalised.csv) -
 [Dataset #2](https://github.com/abertpaat28/Exploring-Stack-Overflow-Developer-Survey-Data-With-Cognos-Analytics-Insights-And-Visualizations/blob/main/m5_survey_data_demographics.csv) -
 [Project Documentation](https://github.com/abertpaat28/Exploring-Stack-Overflow-Developer-Survey-Data-With-Cognos-Analytics-Insights-And-Visualizations/blob/main/Exploring%20Stack%20Overflow%20Developer%20Survey%20Data%20With%20Cognos%20Analytics%20-%20Insights%20And%20Visualizations.pdf)
